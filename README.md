@@ -1,0 +1,2 @@
+# Data-Intensive-Computing
+The repository contains two projects that focus mainly on the Data Analytics aspect of Big Data. The three projects highlight use of diverse technology set right from R code for data extraction to python code for performing NLP.  Use of sophisticated new age file systems such as Hadoop Distributed File System to perform Map-Reduce, Spark Solutions for big data problems using its inbuilt Libraries are the major highlights of projects on this repo.

@@ -1,0 +1,6 @@
+ The  folders contain the following Data:
+
+
+1) FilePrePRocessor.ipynb : The File preprocessor is the widely used file that processes data which results in text files that is fed to MR as input.
+
+2) mapperCoCommonCrawl.py : The file exclusively performs Word Co-occurrence on common crawl data.

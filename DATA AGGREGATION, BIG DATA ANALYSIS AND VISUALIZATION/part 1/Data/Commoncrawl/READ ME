@@ -1,0 +1,6 @@
+The  folders contain the following Data:
+
+1) rawdata : All the the articles are collected in text files and initially stored in this folder
+
+
+2) FinalData : This folder contains the fully processed data that is fed to Map-Reduce as the input in the Hadoop File System.

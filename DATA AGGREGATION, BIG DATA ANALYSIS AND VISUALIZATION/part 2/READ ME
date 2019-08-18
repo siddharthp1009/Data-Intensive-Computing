@@ -1,0 +1,16 @@
+The  folders contain the following Data:
+
+1) dockerMR : The dockerMR folder is used as the base location(src) to transfer files from local file system to Hadoop file system and contains data(data folder) that is to fed to the Map reduce. Additionally the folder contains output folders for th results of Word Count and Word Co-occurrence(All folders that start with name output*).
+
+
+2) All .py files
+
+mapperCoccurNYT.py - To find Word Co-occurence in NYTimes data.
+
+mapperCoTw.py - To find Word Co-occurence in Twitter data.
+
+mapperCoCommonCrawl.py - To find Word Co-occurence in CommonCrawl data
+
+mapper.py - File to perform word count on all data.
+
+reducer.py - File to perform reduce on all data.

@@ -1,0 +1,7 @@
+The folders contain the following Data:
+
+1) ORIGINAL_DATA : All the tweets are collected in csv file using the R code in this folder
+
+2) TEXT_FILES : Tweets extracted from csv are written to text files in the TEXT_FILES folder.
+
+3) FinalData : This folder contains the fully processed data that is fed to Map-Reduce as the input in the Hadoop File System.
